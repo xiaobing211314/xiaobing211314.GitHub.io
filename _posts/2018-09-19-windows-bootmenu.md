@@ -6,13 +6,13 @@ categories: blog
 tags: [系统]   
 description:  浅谈windows多系统及其启动菜单
 ---		
-### 浅谈windows多系统及其启动菜单
+
 
     前几天看群里讨论VHD，就试着搞一搞多系统。uefi的10下装7系统，装好系统，修复引导后显示的是传统的启动菜单（黑底白字），咱还是喜欢metro的启动菜单，本来也就命令的事儿奈何折腾了一天才搞定，记录一下留作以后看。
-
+<!--more-->
 **首先先给出具体命令**
 
-> 传统启动菜单  
+ 传统启动菜单  
 >
 > - 单系统：`bcdedit/set{default}bootmenupolicy legacy`
 > - 多系统：`bcdedit/set{current}bootmenupolicy legacy`                    
