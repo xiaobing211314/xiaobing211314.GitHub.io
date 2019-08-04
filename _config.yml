@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Choose
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: 我，一团火.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          China/Beijing
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Xiao bing
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
