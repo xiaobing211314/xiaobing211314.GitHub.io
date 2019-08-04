@@ -9,7 +9,7 @@ description: 度盘和科学上网
 
 ## 再谈高速下载度盘
 &nbsp;&nbsp;&nbsp; **之前写过一篇了点击[传送门](https://flyme.tk/blog/2017/08/25/yunpan-fast/)，几个月过去了又添加了几个**    
-
+<!--more-->
 -  **[速盘](https://www.speedpan.com/)**     这个是这几个月出来的速度很快我目前主要用这个。小技巧提示，下载一段时间后速度变慢单击暂停一下重新下载就好了，现在又有了黑科技加速，一般主用他就好了。   
 -  **[度盘解析](https://www.52pojie.cn/thread-704274-1-1.html)** 不用登录直接复制分享的链接即可下载，不会封号，但是调用的内部迅雷下的速度一般，我的另一个主用。   
 -  [**BaiduPCS-Go**](https://github.com/iikira/BaiduPCS-Go/releases) 开源而且速度不错，因为命令行操作所以比较繁琐，仔细看帮助，不建议新手使用。   
