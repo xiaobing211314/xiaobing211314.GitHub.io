@@ -5,7 +5,7 @@
 #
 title: Choose
 email:
-description: 我，一团火.
+description: 
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Xiao bing
   avatar: leonids-logo.png
-  job: "A jekyll theme"
+  job: "我，一团"
   bio: ""
   email:
   disqus-shortname:
