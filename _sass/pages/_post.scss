@@ -45,9 +45,27 @@ section.post {
 }
 
 // Post title
-.post-title {
 
+.post-title {
+    position: relative;
 }
+
+.post-title::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 70%;
+    left: -0.1px;
+    right: -0.1px;
+    bottom: 0;
+    transition: top .1s ease-in-out;
+    background-color: rgba(87,120,243,0.5);
+}
+
+.post-title:hover::after {
+    top: 0;
+}
+
 
 .post-title-link {
 	color: $primary;
