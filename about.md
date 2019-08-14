@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About"
-permalink: /About/
+title: "关于我"
+permalink: /aout/
 ---
 >
 > 我是小兵，又懒又笨。	
