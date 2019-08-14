@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于我"
+title: "about me"
 permalink: /aout/
 ---
 >
