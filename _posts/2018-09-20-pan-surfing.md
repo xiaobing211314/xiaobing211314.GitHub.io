@@ -2,7 +2,7 @@
 layout:	post	
 title: 度盘和科学上网           
 date: 2018-09-20    
-categories: blog   
+categories: IT 	   
 tags: [翻墙]      
 description: 度盘和科学上网 
 ---		

@@ -2,7 +2,7 @@
 layout:	post	
 title: 浅谈windows多系统及其启动菜单     
 date: 18-09-19	
-categories: blog
+categories: IT 	 
 tags: [系统]   
 description:  浅谈windows多系统及其启动菜单
 ---		
