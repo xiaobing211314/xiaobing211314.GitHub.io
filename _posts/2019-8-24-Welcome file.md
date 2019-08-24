@@ -1,7 +1,7 @@
 ---
+layout：post
 title：Win10 快捷键总结      
 date：2019-8-23    
-layout：post   
 tags：[]    
 categories：   
 ---
