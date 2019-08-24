@@ -3,7 +3,12 @@
 
 ---
 
-<p>＃欢迎来到StackEdit！</p>
+<hr>
+<h2 id="title：win10-快捷键总结date：2019-8-23layout：posttags：categories：">title：Win10 快捷键总结<br>
+date：2019-8-23<br>
+layout：post<br>
+tags：[]<br>
+categories：</h2>
 <p>嗨！我对你们的第一次降价文件** StackEdit <strong>。如果你想了解StackEdit，你可以读我。如果你想玩Markdown，可以编辑我。完成后，您可以通过打开导航栏左下角的</strong>文件浏览器**来创建新文件。</p>
 <p>＃文件</p>
 <p>StackEdit存储您的文件在您的浏览器，这意味着您的所有文件会自动保存到本地，都可以访问<strong>下线！</strong></p>
@@ -36,7 +41,7 @@
 <h2 id="管理文件同步">管理文件同步</h2>
 <p>由于一个文件可以与多个位置进行同步，你可以列出并通过单击管理同步位置<strong>文件同步</strong>的<strong>同步</strong>子菜单。这允许您列出和删除链接到您的文件的同步位置。</p>
 <p>＃出版</p>
-<p>在StackEdit中发布使您可以轻松地在线发布文件。一旦您对文件感到满意，您就可以将其发布到不同的托管平台，例如** Blogger <strong>，</strong> Dropbox <strong>，</strong> Gist <strong>，</strong> GitHub <strong>，</strong> Google Drive *<em>，</em>      * WordPress <strong>和</strong> Zendesk **。使用[Handlebars templates]（<a href="http://handlebarsjs.com/">http://handlebarsjs.com/</a> ），您可以完全控制导出的内容。</p>
+<p>在StackEdit中发布使您可以轻松地在线发布文件。一旦您对文件感到满意，您就可以将其发布到不同的托管平台，例如** Blogger <strong>，</strong> Dropbox <strong>，</strong> Gist <strong>，</strong> GitHub <strong>，</strong> Google Drive *<em>，</em>                                                                                                                                             * WordPress <strong>和</strong> Zendesk **。使用[Handlebars templates]（<a href="http://handlebarsjs.com/">http://handlebarsjs.com/</a> ），您可以完全控制导出的内容。</p>
 <blockquote>
 <p>Before starting to publish, you must link an account in the <strong>Publish</strong> sub-menu.</p>
 </blockquote>
