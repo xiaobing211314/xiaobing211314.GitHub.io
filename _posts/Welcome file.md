@@ -29,14 +29,14 @@
 <p>您可以保存工作区中的任何文件<strong>谷歌驱动器</strong>，** Dropbox的<strong>或</strong> GitHub的<strong>通过打开</strong>同步<strong>子菜单，然后点击</strong>节省**。即使工作区中的文件已同步，您也可以将其保存到其他位置.StackEdit可以将一个文件与多个位置和帐户同步。</p>
 <h2 id="同步文件">同步文件</h2>
 <p>一旦您的文件链接到同步位置，StackEdit将通过下载/上传任何修改定期同步它。如有必要，将执行合并，并解决冲突。</p>
-<p>If you just have modified your file and you want to force syncing, click the <strong>Synchronize now</strong> button in the navigation bar.</p>
+<p>如果您刚刚修改了文件并想要强制同步，请单击导航栏中的<strong>立即同步</strong>按钮。</p>
 <blockquote>
-<p><strong>Note:</strong> The <strong>Synchronize now</strong> button is disabled if you have no file to synchronize.</p>
+<p><strong>注：<strong>的</strong>立即同步</strong>按钮是无效的，如果你没有文件同步。</p>
 </blockquote>
-<h2 id="manage-file-synchronization">Manage file synchronization</h2>
-<p>Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking <strong>File synchronization</strong> in the <strong>Synchronize</strong> sub-menu. This allows you to list and remove synchronized locations that are linked to your file.</p>
-<h1 id="publication">Publication</h1>
-<p>Publishing in StackEdit makes it simple for you to publish online your files. Once you’re happy with a file, you can publish it to different hosting platforms like <strong>Blogger</strong>, <strong>Dropbox</strong>, <strong>Gist</strong>, <strong>GitHub</strong>, <strong>Google Drive</strong>, <strong>WordPress</strong> and <strong>Zendesk</strong>. With <a href="http://handlebarsjs.com/">Handlebars templates</a>, you have full control over what you export.</p>
+<h2 id="管理文件同步">管理文件同步</h2>
+<p>由于一个文件可以与多个位置进行同步，你可以列出并通过单击管理同步位置<strong>文件同步</strong>的<strong>同步</strong>子菜单。这允许您列出和删除链接到您的文件的同步位置。</p>
+<p>＃出版</p>
+<p>在StackEdit中发布使您可以轻松地在线发布文件。一旦您对文件感到满意，您就可以将其发布到不同的托管平台，例如** Blogger <strong>，</strong> Dropbox <strong>，</strong> Gist <strong>，</strong> GitHub <strong>，</strong> Google Drive *<em>，</em>      * WordPress <strong>和</strong> Zendesk **。使用[Handlebars templates]（<a href="http://handlebarsjs.com/">http://handlebarsjs.com/</a> ），您可以完全控制导出的内容。</p>
 <blockquote>
 <p>Before starting to publish, you must link an account in the <strong>Publish</strong> sub-menu.</p>
 </blockquote>
@@ -97,5 +97,5 @@
 </blockquote>
 <h2 id="uml-diagrams">UML diagrams</h2>
 <p>You can render UML diagrams using <a href="https://mermaidjs.github.io/">Mermaid</a>. For example, this will produce a sequence diagram:</p>
-<p><code></code> <code>美人鱼序列图表爱丽丝 - &gt;&gt;鲍勃：你好鲍勃，你好吗？鲍勃 - &gt;&gt;约翰：约翰，你呢？鲍勃 - x爱丽丝：我很感谢！Bob-x John ：我很感谢！注意约翰的权利：鲍勃认为很长很长一段时间，因为文本不适合连续。鲍勃 - &gt;爱丽丝：和约翰一起检查......爱丽丝 - &gt;约翰：是的......约翰，你好吗？</code> <code></code>这将产生一个流程图：<code></code>美人鱼图LR A [方形矩形]  - 链接文字 - &gt; B（（圆圈））A  - &gt; C（圆形）形）形矩形）乙- &gt; d {菱形}℃ - &gt; d <code></code> `</p>
+<p><code></code> <code>美人鱼序列图表爱丽丝 - &gt;&gt;鲍勃：你好鲍勃，你好吗？鲍勃 - &gt;&gt;约翰：约翰，你呢？鲍勃 - x爱丽丝：我很感谢！Bob-x John ：我很感谢！注意约翰的权利：鲍勃认为很长很长一段时间，因为文本不适合连续。鲍勃 - &gt;爱丽丝：和约翰一起检查......爱丽丝 - &gt;约翰：是的......约翰，你好吗？</code> <code></code>这将产生一个流程图：<code></code>美人鱼图LR A [方形矩形]  - 链接文字 - &gt; B（（圆圈））A  - &gt; C（圆形）形）形）形矩形）乙- &gt; d {菱形}℃ - &gt; d <code></code> `</p>
 
