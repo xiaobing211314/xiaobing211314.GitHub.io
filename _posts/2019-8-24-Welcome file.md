@@ -1,14 +1,11 @@
 ---
-layout： post 
-
-title：  Win10 快捷键总结     
-  
-date： 2019-8-23     
-
-tags： []     
-
-categories：    
----
+layout:	post	
+title: 123	
+date: 18-08-17
+categories: IT 	 
+tags: []
+description:    
+---		
 
 
 嗨！我对你们的第一次降价文件** StackEdit **。如果你想了解StackEdit，你可以读我。如果你想玩Markdown，可以编辑我。完成后，您可以通过打开导航栏左下角的**文件浏览器**来创建新文件。
