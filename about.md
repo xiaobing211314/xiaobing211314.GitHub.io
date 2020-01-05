@@ -17,6 +17,6 @@ permalink: /aout/
 * * *
 ### 与我相关：
 * [小小书签](uefi.tk)-自己写了个html把一些常用的书签放进去了。
-* [我的私人网盘](http://mypan.herokuapp.com/)-自己搭建的oneindex。
+* [我的私人网盘](http://od.22web.org/)-自己搭建的oneindex。
 
 
